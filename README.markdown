@@ -16,9 +16,9 @@ blog](http://android-developers.blogspot.co.uk/2015/06/more-material-design-with
 
 ### Screenshots
 
-<img src="screenshots/categories.png" width="30%" />
-<img src="screenshots/category_history.png" width="30%" />
-<img src="screenshots/quiz_shakespeare.png" width="30%" />
+<img src="screenshots/玩家登入畫面.png" width="30%" />
+<img src="screenshots/答題過程畫面.png" width="30%" />
+<img src="screenshots/答題情形分析畫面.png" width="30%" />
 
 ### Getting Started
 
