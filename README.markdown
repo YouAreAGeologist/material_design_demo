@@ -68,6 +68,7 @@ WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
 License for the specific language governing permissions and limitations under
 the License.
 ```
+
 # activity  - 撰寫登入、問題庫、測驗遊戲三大主體的動作
 ## SignInActivity - 登入介面行為
 ### method
