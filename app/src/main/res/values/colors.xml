@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2015 Google Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <color name="touch_effect">#9ccc</color>
+
+    <color name="topeka_primary">#00bad2</color>
+    <color name="topeka_primary_dark">#00a3b8</color>
+    <color name="topeka_blank">#424242</color>
+    <color name="topeka_accent">#3F51B5</color>
+
+    <color name="text_light">@android:color/white</color>
+    <color name="text_dark">#616161</color>
+
+    <!-- theme colors -->
+    <color name="theme_blue_background">#84ffff</color>
+    <color name="theme_blue_primary">#03a9f4</color>
+    <color name="theme_blue_accent">#ff193a</color>
+    <color name="theme_blue_text">@color/text_light</color>
+    <color name="theme_blue_primary_dark">#038dcc</color>
+
+    <color name="theme_green_background">#b9f6ca</color>
+    <color name="theme_green_primary">#1de9b6</color>
+    <color name="theme_green_accent">#e919ff</color>
+    <color name="theme_green_text">@color/text_dark</color>
+    <color name="theme_green_primary_dark">#19cc9f</color>
+
+    <color name="theme_purple_background">#b388ff</color>
+    <color name="theme_purple_primary">#7e57c2</color>
+    <color name="theme_purple_accent">#ff9419</color>
+    <color name="theme_purple_text">@color/text_light</color>
+    <color name="theme_purple_primary_dark">#6c4aa6</color>
+
+    <color name="theme_red_background">#ff8a80</color>
+    <color name="theme_red_primary">#ff5252</color>
+    <color name="theme_red_accent">#fffc19</color>
+    <color name="theme_red_text">@color/text_light</color>
+    <color name="theme_red_primary_dark">#e64a4a</color>
+
+    <color name="theme_yellow_background">#ffff8d</color>
+    <color name="theme_yellow_primary">#ffeb3b</color>
+    <color name="theme_yellow_accent">#19dcff</color>
+    <color name="theme_yellow_text">@color/text_dark</color>
+    <color name="theme_yellow_primary_dark">#e6d335</color>
+
+    <!--以下為新增色票-->
+    <color name="theme_active_background">#FFCA28</color>
+    <color name="theme_active_primary">#FF8F00</color>
+    <color name="theme_active_accent">#fffc19</color> <!-- 須改-->
+    <color name="theme_active_text">@color/text_light</color>
+    <color name="theme_active_primary_dark">#FF6F00</color>
+    
+    <color name="theme_techie_background">#99CCFF</color>
+    <color name="theme_techie_primary">#0000CC</color>
+    <color name="theme_techie_accent">#0099FF</color>
+    <color name="theme_techie_text">@color/text_light</color>
+    <color name="theme_techie_primary_dark">#3949AB</color>
+
+    <color name="theme_leisured_background">#B2DFDB</color>
+    <color name="theme_leisured_primary">#009688</color>
+    <color name="theme_leisured_accent">#4DB6AC</color>
+    <color name="theme_leisured_text">@color/text_light</color>
+    <color name="theme_leisured_primary_dark">#00897B</color>
+
+    <color name="theme_sweet_background">#FFCCFF</color>
+    <color name="theme_sweet_primary">#FF66CC</color>
+    <color name="theme_sweet_accent">#FF6699</color>
+    <color name="theme_sweet_text">@color/text_light</color>
+    <color name="theme_sweet_primary_dark">#FF0066</color>
+
+    <color name="theme_futuristic_background">#CCCCFF</color>
+    <color name="theme_futuristic_primary">#9999FF</color>
+    <color name="theme_futuristic_accent">#330000</color>
+    <color name="theme_futuristic_text">@color/text_light</color>
+    <color name="theme_futuristic_primary_dark">#311B92</color>
+
+    <color name="theme_cyan_background">#00BCD4</color>
+    <color name="theme_cyan_primary">#00838F</color>
+    <color name="theme_cyan_accent">#00B8D4</color>
+    <color name="theme_cyan_text">@color/text_light</color>
+    <color name="theme_cyan_primary_dark">#006064</color>
+
+    <color name="theme_fresh_background">#33CC00</color>
+    <color name="theme_fresh_primary">#009900</color>
+    <color name="theme_fresh_accent">#FF9900</color>
+    <color name="theme_fresh_text">@color/text_light</color>
+    <color name="theme_fresh_primary_dark">#006600</color>
+
+    <color name="theme_honest_background">#CC9900</color>
+    <color name="theme_honest_primary">#993333</color>
+    <color name="theme_honest_accent">#999966</color>
+    <color name="theme_honest_text">@color/text_light</color>
+    <color name="theme_honest_primary_dark">#663300</color>
+
+    <color name="theme_passion_background">#FF9999</color>
+    <color name="theme_passion_primary">#FF0033</color>
+    <color name="theme_passion_accent">#FF33FF</color>
+    <color name="theme_passion_text">@color/text_light</color>
+    <color name="theme_passion_primary_dark">#CC0000</color>
+
+    <color name="statusBar">#00a3b8</color>
+    <color name="player">#00bad2</color>
+
+
+
+    <color name="green">#00e676</color>
+    <color name="red">#ff5252</color>
+    <color name="light_grey">#f5f5f5</color>
+
+</resources>

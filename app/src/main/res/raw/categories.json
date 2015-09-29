@@ -1,0 +1,978 @@
+[
+  {
+    "name": "Food & Drink",
+    "id": "food",
+    "theme": "fresh",
+    "quizzes": [
+      {
+        "type": "picker",
+        "question": "口香糖在哪個世紀被發明出來?",
+        "min": 0,
+        "max": 22,
+        "answer": 19
+
+      },
+      {
+        "type": "multi-select",
+        "question": "下列哪幾個飲料是出自同一家公司?",
+        "options": [
+          "百事可樂",
+          "可口可樂",
+          "雪碧",
+          "美粒果",
+          "芬達"
+        ],
+        "answer": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+
+      {
+        "type": "true-false",
+        "question": "咖啡豆的咖啡因含量有比綠茶葉多嗎?",
+        "answer": false
+      },
+      {
+        "type": "multi-select",
+        "question": "四神湯的四神，是指?",
+        "options": [
+          "茯苓",
+          "山藥",
+          "肉桂",
+          "芡實",
+          "粉腸",
+          "淮山",
+          "蓮子"
+        ],
+        "answer": [
+          0,
+          3,
+          5,
+          6
+        ]
+      },
+      {
+        "type": "four-quarter",
+        "question": "下列哪個作物遭受科羅拉多金花蟲破壞?",
+        "options": [
+          "玉米",
+          "大蒜",
+          "馬鈴薯",
+          "小麥"
+        ],
+        "answer": [2]
+      },
+      {
+        "type": "fill-blank",
+        "question": "將糖漿加熱至呈現褐色後稱作?",
+        "answer": "焦糖"
+      },
+      {
+        "type": "single-select",
+        "question": "李鴻章雜碎又稱雜碎，是在何處被研製?",
+        "options": [
+          "香港",
+          "台北",
+          "紐約",
+          "舊金山"
+        ],
+        "answer": [3]
+      },
+      {
+        "type": "picker",
+        "question": "一公斤脂肪等於多少熱量(大卡)",
+        "min": 1000,
+        "max": 9000,
+        "step": 100,
+        "answer": 7700
+      },
+      {
+        "type": "fill-blank",
+        "question": "工業酒精成分主要為甲醇，食用酒精主要成分是____",
+        "answer": "乙醇"
+      },
+      {
+        "type": "four-quarter",
+        "question": "下列哪個不是音譯的食物?",
+        "options": [
+          "巧克力",
+          "荔枝",
+          "壽司",
+          "聖代"
+        ],
+        "answer": [1]
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "General Knowledge",
+    "id": "knowledge",
+    "theme": "techie",
+    "quizzes": [
+      {
+        "type": "fill-blank",
+        "question": "本國國花為__花",
+        "answer": "梅"
+      },
+      {
+        "type": "four-quarter",
+        "question": "世界最高建築物為?",
+        "options": [
+          "上海中心大廈",
+          "哈里發塔",
+          "麥加皇家鐘塔飯店",
+          "平安國際金融中心"
+        ],
+        "answer": [1]
+      },
+      {
+        "type": "multi-select",
+        "question": "下列哪些非東方節慶",
+        "options": [
+          "中秋節",
+          "端午節",
+          "萬聖節",
+          "聖誕節",
+          "母親節",
+          "中元節",
+          "感恩節"
+        ],
+        "answer": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "type": "toggle-translate",
+        "question": "下列是台灣人出國排行前四的國家，該國電壓對應何者正確?",
+        "options": [
+          [
+            "大陸",
+            "110V"
+          ],
+          [
+            "日本",
+            "220V"
+          ],
+          [
+            "香港",
+            "120V"
+          ],
+          [
+            "韓國",
+            "220V"
+          ]
+        ],
+        "answer": [3]
+      },
+      {
+        "type": "single-select-item",
+        "question": "最早也是最大的迪士尼樂園位於?",
+        "options": [
+          "日本東京",
+          "法國巴黎",
+          "美國加利福尼亞州",
+          "香港"
+        ],
+        "answer": [2]
+      },
+      {
+        "type": "picker",
+        "question": "1024是2的幾次方",
+        "min": 0,
+        "max": 30,
+        "answer": 10
+      },
+      {
+        "type": "true-false",
+        "question": "電信業者推廣的4G，其中的G是Generation的縮寫",
+        "answer": true
+      },
+      {
+        "type": "alpha-picker",
+        "question": "代數中常用符號第一名為?",
+        "answer": "X"
+      },
+      {
+        "type": "four-quarter",
+        "question": "威廉·古斯特洛夫號郵輪的沉沒是歷史上最慘重的海難，近9,000人身亡，該海難發生於?",
+        "options": [
+          "地中海",
+          "波羅的海",
+          "百慕達三角洲",
+          "黑海"
+        ],
+        "answer": [1]
+      },
+      {
+        "type": "single-select",
+        "question": "日本的電視台深夜電視節目會用超過24小時制來預告播出時間，請問星期四25:00等於?",
+        "options": [
+          "星期四下午1點",
+          "星期四上午1點",
+          "星期五上午1點",
+          "星期五下午1點"
+        ],
+        "answer": [2]
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "History",
+    "id": "history",
+    "theme": "honest",
+    "quizzes": [
+      {
+        "type": "fill-blank",
+        "question": "1944年二次大戰期間，於6月6號盟軍登陸法國諾曼第著名的D-DAY的D是什麼的縮寫呢?",
+        "start": "請填入全部為小寫的英文：",
+        "answer": "day"
+      },
+      {
+        "type": "single-select-item",
+        "question": "阿拉伯數字是從下列哪個國家流傳出來的呢?",
+        "options": [
+          "阿拉伯",
+          "美國",
+          "中國",
+          "韓國",
+          "印度"
+        ],
+        "answer": [4]
+      },
+      {
+        "type": "true-false",
+        "question": "著名的埃及豔后克麗奧佩脫拉是埃及人嗎?",
+        "answer": false
+      },
+      {
+        "type": "fill-blank",
+        "question": "台灣南部的高雄是由哪個國家命名的呢?",
+        "start": "請填入國家名：",
+        "answer": "日本"
+      },
+      {
+        "type": "fill-blank",
+        "question": "《世說新語》中的小時了了篇中的故事是講哪位知名的文人呢?",
+        "start": "請填入姓名： ",
+        "answer": "孔融"
+      },
+      {
+        "type": "multi-select",
+        "question": "二次世界大戰後期知名的《開羅宣言》是由當時的哪幾位領袖所共同發布的呢?",
+        "options": [
+          "毛澤東",
+          "蔣介石",
+          "歐巴馬",
+          "史達林",
+          "邱吉爾",
+          "羅斯福"
+        ],
+        "answer": [
+          1,
+          4,
+          5
+        ]
+      },
+      {
+        "type": "four-quarter",
+        "question": "下列何者為歷代中國維持最久的朝代呢?",
+        "options": [
+          "明朝",
+          "周朝",
+          "唐朝",
+          "漢朝"
+        ],
+        "answer": [1]
+      },
+      {
+        "type": "picker",
+        "question": "影響人類深遠的工業革命是在哪個世紀發生的呢?",
+        "min": 10,
+        "max": 22,
+        "answer": 19
+      },
+      {
+        "type": "single-select",
+        "question": "《國富論》是由哪一位經濟學大師於18世紀所著作的呢?",
+        "options": [
+          "班‧柏南奇",
+          "卡爾‧馬克思",
+          "約翰‧·梅納德‧凱因斯",
+          "亞當‧斯密",
+          "珍妮特‧葉倫"
+        ],
+        "answer": [3]
+      },
+      {
+        "type": "multi-select",
+        "question": "下列哪幾個戰爭是美國有參戰卻未以戰勝作結的戰爭呢?",
+        "options": [
+          "八國聯軍",
+          "第一次世界大戰",
+          "第二次世界大戰",
+          "韓戰",
+          "越戰",
+          "波斯灣戰爭"
+        ],
+        "answer": [
+          3,
+          4
+        ]
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "Geography",
+    "id": "geography",
+    "theme": "leisured",
+    "quizzes": [
+      {
+        "type": "single-select-item",
+        "question": "下列何者非地震的起因?",
+        "options": [
+          "火山爆發",
+          "板塊運動",
+          "下雨",
+          "隕石撞擊"
+        ],
+        "answer": [2]
+      },
+      {
+        "type": "toggle-translate",
+        "question": "下列歐洲國家對應的國花，何者正確?",
+        "options": [
+          [
+            "義大利",
+            "冬青"
+          ],
+          [
+            "法國",
+            "百合"
+          ],
+          [
+            "加拿大",
+            "楓葉"
+          ],
+          [
+            "丹麥",
+            "雛菊"
+          ]
+        ],
+        "answer": [2]
+      },
+      {
+        "type": "true-false",
+        "question": "裏海是鹹水湖",
+        "answer": true
+      },
+      {
+        "type": "picker",
+        "question": "英國海岸線，大約有幾公里?",
+        "min": 2000,
+        "max": 5000,
+        "step": 500,
+        "answer": 2500
+      },
+      {
+        "type": "multi-select",
+        "question": "下列哪三個國家擁有50座(以上)核反應爐?",
+        "options": [
+          "美國",
+          "俄羅斯",
+          "加拿大",
+          "巴西",
+          "法國",
+          "日本",
+          "中國"
+        ],
+        "answer": [
+          0,
+          4,
+          5
+        ]
+      },
+      {
+        "type": "fill-blank",
+        "question": "喀斯特地形通常形成在pH值較高還是低的環境?",
+        "answer": "低"
+      },
+      {
+        "type": "single-select-item",
+        "question": "承上題，喀斯特地形是指甚麼岩",
+        "options": [
+          "石灰岩",
+          "花崗岩",
+          "玄武岩",
+          "安山岩"
+        ],
+        "answer": [0]
+      },
+      {
+        "type": "fill-blank",
+        "question": " ____位於德國北部的易北河之上，且以食物命名",
+        "answer": "漢堡"
+      },
+      {
+        "type": "true-false",
+        "question": "富士山已成為死火山",
+        "answer": false
+      },
+      {
+        "type": "single-select",
+        "question": "全世界最大的水下洞穴，大藍洞，位在哪一片海洋?",
+        "options": [
+          "太平洋",
+          "大西洋",
+          "印度洋",
+          "南冰洋"
+        ],
+        "answer": [1]
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "Science and Nature",
+    "id": "science",
+    "theme": "futuristic",
+    "quizzes": [
+      {
+        "type": "fill-blank",
+        "question": "地殼下方那一層叫____",
+        "answer": "地函"
+      },
+      {
+        "type": "single-select-item",
+        "question": "唯一能夠向後飛行的鳥類為?",
+        "options": [
+          "烏鴉",
+          "蜂鳥",
+          "鵜鶘",
+          "海鷗",
+          "信天翁",
+          "隼",
+          "雀"
+        ],
+        "answer": [1]
+      },
+      {
+        "type": "four-quarter",
+        "question": "世上唯一無法收回爪子的貓科",
+        "options": [
+          "狐獴",
+          "山貓",
+          "獵豹",
+          "暹羅貓"
+        ],
+        "answer": [2]
+      },
+      {
+        "type": "toggle-translate",
+        "question": "下列哪個科學代號對應是錯誤的",
+        "options": [
+          [
+            "氦",
+            "He"
+          ],
+          [
+            "鎢",
+            "W"
+          ],
+          [
+            "鋰",
+            "Lt"
+          ],
+          [
+            "鎳",
+            "Ni"
+          ],
+          [
+            "銅",
+            "C"
+          ],
+          [
+            "鋅",
+            "Zn"
+          ],
+          [
+            "鎘",
+            "Cd"
+          ],
+          [
+            "鉀",
+            "K"
+          ],
+          [
+            "矽",
+            "Sn"
+          ]
+        ],
+        "answer": [
+          2,
+          4,
+          8
+        ]
+      },
+      {
+        "type": "true-false",
+        "question": "玻璃體是在人眼中發現的",
+        "answer": true
+      },
+      {
+        "type": "fill-blank",
+        "question": "__色，彩虹的第三個顏色",
+        "answer": "黃"
+      },
+      {
+        "type": "picker",
+        "question": "多數鳥類的腳趾數目",
+        "min": 2,
+        "max": 12,
+        "answer": 8
+      },
+      {
+        "type": "picker",
+        "question": "攝氏零下40度=華氏溫度?",
+        "min": -100,
+        "max": 0,
+        "step": 5,
+        "answer": -40
+      },
+      {
+        "type": "four-quarter",
+        "question": "哪類生物是魚類?",
+        "options": [
+          "鱷魚",
+          "鯊魚",
+          "海豚",
+          "鯨魚"
+        ],
+        "answer": [1]
+      },
+      {
+        "type": "fill-two-blanks",
+        "question": "黃銅是由哪兩類金屬構成?",
+        "answer": [
+          "銅",
+          "鋅"
+        ]
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "TV & Movies",
+    "id": "tvmovies",
+    "theme": "sweet",
+    "quizzes": [
+      {
+        "type": "multi-select",
+        "question": "下列哪幾位演員有演過大名鼎鼎的007詹姆士龐德呢?",
+        "options": [
+          "史恩‧康納萊",
+          "湯姆‧克魯斯",
+          "皮爾斯‧布洛斯南",
+          "丹尼爾‧克雷格",
+          "克林‧伊斯威特",
+          "羅傑‧摩爾"
+        ],
+        "answer": [
+          0,
+          2,
+          3,
+          5
+        ]
+      },
+      {
+        "type": "four-quarter",
+        "question": "網路流行語「下雪了，怎能沒有炸雞和啤酒」是來自哪一部?",
+        "options": [
+          "親愛的恩東啊",
+          "來自星星的你",
+          "閃耀或瘋狂",
+          "為純情著迷"
+        ],
+        "answer": [1]
+      },
+      {
+        "type": "four-quarter",
+        "question": "2003年上映的《綠巨人浩克》是由哪位導演執導的呢?",
+        "options": [
+          "詹姆士‧柯麥隆",
+          "麥可‧貝",
+          "李安",
+          "史蒂芬‧史匹柏"
+        ],
+        "answer": [2]
+      },
+      {
+        "type": "single-select",
+        "question": "下列哪一位好萊塢男星曾經得到過美國摔角界的WWE冠軍頭銜呢?",
+        "options": [
+          "巨石‧強森",
+          "布魯斯‧威利",
+          "阿諾‧史瓦辛格",
+          "克里斯‧漢斯沃"
+        ],
+        "answer": [0]
+      },
+      {
+        "type": "picker",
+        "question": "2015年末要上映的知名科幻電影《星際大戰第七集─原力覺醒》的首部電影是於何年上映的呢?",
+        "min": 1950,
+        "max": 2014,
+        "answer": 1977
+      },
+      {
+        "type": "fill-blank",
+        "question": "柯南姓?",
+        "answer": "江戶川"
+      },
+      {
+        "type": "true-false",
+        "question": "請問曾演出《鐵達尼號》的男星─李奧納多‧狄卡皮歐截至2014年底有得過奧斯卡獎嗎?",
+        "answer": false
+      },
+      {
+        "type": "picker",
+        "question": "至目前神奇寶貝電影版，出到第幾部?",
+        "min": 1,
+        "max": 20,
+        "answer": 18
+      },
+      {
+        "type": "four-quarter",
+        "question": "「恰恰!!(捏爆橘子)」是出自哪部台灣鄉土劇?",
+        "options": [
+          "天下女人心",
+          "風水世家",
+          "夜市人生",
+          "世間情"
+        ],
+        "answer": [2]
+      },
+      {
+        "type": "fill-blank",
+        "question": "於三立台灣台播出且為台灣最長壽的古裝電視劇系列(4個字)",
+        "answer": "戲說台灣"
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "Gossiping",
+    "id": "entertainment",
+    "theme": "passion",
+    "quizzes": [
+      {
+        "type": "fill-blank",
+        "question": "金城武的姓氏?",
+        "answer": "金城"
+      },
+      {
+        "type": "four-quarter",
+        "question": "黑人，陳建州，最擅長?",
+        "options": [
+          "主持",
+          "裝熟",
+          "唱歌",
+          "跳舞"
+        ],
+        "answer": [1]
+      },
+      {
+        "type": "picker",
+        "question": "最能代表KMT的數字是?",
+        "min": 300,
+        "max": 700,
+        "answer": 689
+      },
+      {
+        "type": "true-false",
+        "question": "costco的唸法為ikea",
+        "answer": false
+      },
+      {
+        "type": "multi-select",
+        "question": "以下為營運中便利商店的註冊商標，請選出執行現泡咖啡行銷策略的店家",
+        "options": [
+          "7-11",
+          "FamilyMart",
+          "Hi-Life",
+          "OK",
+          "TLL"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "type": "picker",
+        "question": "2015年金曲獎為第幾屆",
+        "min": 0,
+        "max": 30,
+        "answer": 26
+      },
+      {
+        "type": "fill-blank",
+        "question": "承上題，該屆年度最佳歌曲為(4個字)",
+        "answer": "島嶼天光"
+      },
+      {
+        "type": "single-select",
+        "question": "小S代言的麵包店，店名叫?",
+        "options": [
+          "一之軒麵包",
+          "法蘭司",
+          "胖達人",
+          "莎士比亞烘焙坊"
+        ],
+        "answer": [2]
+      },
+      {
+        "type": "picker",
+        "question": "小當家是從何年開始連載?",
+        "min": 1990,
+        "max": 2015,
+        "answer": 1997
+      },
+      {
+        "type": "fill-blank",
+        "question": "「婉君」實際上是指?",
+        "answer": "網軍"
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+  "name": "Sports",
+  "id": "sports",
+  "theme": "active",
+  "quizzes": [
+    {
+      "type": "fill-blank",
+      "question": "加拿大國球是_______",
+      "answer": "袋棍球"
+    },
+    {
+      "type": "four-quarter",
+      "question": "哪個國家從1928年至1956年，贏得了每屆冬奧會男子冰球金牌?",
+      "options": [
+        "加拿大",
+        "俄羅斯",
+        "印度",
+        "美國"
+      ],
+      "answer": [2]
+    },
+    {
+      "type": "true-false",
+      "question": "biathlon(冬季兩項)，是指3公里跑步、12公里單車",
+      "answer": false
+    },
+    {
+      "type": "picker",
+      "question": "運動項目，水球，比賽時會有多少人在場上?",
+      "min": 10,
+      "max": 25,
+      "answer": 14
+    },
+    {
+      "type": "toggle-translate",
+      "question": "請選出球隊與從事的球類運動錯誤的選項",
+      "options": [
+        [
+          "克里夫蘭印地安人",
+          "棒球"
+        ],
+        [
+          "萊斯特老虎",
+          "橄欖球"
+        ],
+        [
+          "布拉德福德公牛",
+          "曲棍球"
+        ],
+        [
+          "休士頓火箭",
+          "籃球"
+        ],
+        [
+          "維岡黃蜂",
+          "曲棍球"
+        ],
+        [
+          "肯特噴火",
+          "板球"
+        ]
+      ],
+      "answer": [
+        2,
+        4
+      ]
+    },
+    {
+      "type": "multi-select",
+      "question": "哪些城市已經舉辦過奧運會？",
+      "options": [
+        "雅典",
+        "普萊西德湖",
+        "因斯布魯克",
+        "紐約",
+        "開普敦",
+        "聖莫里茨"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "type": "four-quarter",
+      "question": "2014年鐵人三項的冠軍塞巴斯蒂安．金勒，是哪一國人?",
+      "options": [
+        "美國",
+        "德國",
+        "俄羅斯",
+        "澳洲"
+      ],
+      "answer": [1]
+    },
+    {
+      "type": "single-select-item",
+      "question": "電競，使用電腦遊戲來比賽的體育項目，下列何者非電競的遊戲項目?",
+      "options": [
+        "AVA",
+        "戰車世界",
+        "天堂",
+        "世紀帝國"
+      ],
+      "answer": [2]
+    },
+    {
+      "type": "fill-blank",
+      "question": "溫布頓網球錦標賽在哪個國家舉辦?",
+      "answer": "英國"
+    },
+    {
+      "type": "picker",
+      "question": "馬拉松（marathon）是一項考驗耐力的長跑運動。現在規定的長度約多少公里?",
+      "min": 10,
+      "max": 65,
+      "answer": 42
+    }
+  ],
+  "scores": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "solved": "false"
+  }
+]
